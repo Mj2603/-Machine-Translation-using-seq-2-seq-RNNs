@@ -3,7 +3,7 @@
 # Machine-Translation-using-seq-2-seq-RNNs
 
 # Introduction
-In this notebook, you will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
+In this notebook, we built a deep neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input and return the French translation.
 
 # Setup
 
